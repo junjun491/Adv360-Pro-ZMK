@@ -44,7 +44,7 @@
           &kp TAB          &kp Q                 &kp W     &kp E                  &kp R          &kp T               &kp LCTRL                                                                                    &kp LEFT_PARENTHESIS      &kp Y             &kp U         &kp I              &kp O             &kp P           &kp BSLH
  &kp LEFT_CONTROL          &kp A                 &kp S     &kp D                  &kp F          &kp G            &kp LEFT_ALT  &kp ESC   &kp STAR   &none   &none  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp RIGHT_PARENTHESIS      &kp H             &kp J         &kp K              &kp L          &kp SEMI            &kp SQT
         &kp LSHFT          &kp Z                 &kp X     &kp C                  &kp V          &kp B                   &none    &none  &kp UNDER   &none   &none         &kp RIGHT_ALT                  &none                  &none      &kp N             &kp M     &kp COMMA            &kp DOT          &kp FSLH          &kp RSHFT
-            &mo 2  &kp RIGHT_ALT      &kp LEFT_COMMAND  &kp LEFT              &kp RIGHT                               &kp BSPC  &kp DEL  &kp MINUS                     &kp RIGHT_COMMAND      &kp RIGHT_COMMAND              &kp ENTER               &kp DOWN_ARROW  &kp UP_ARROW              &mo 2  &kp LEFT_BRACKET  &kp RIGHT_BRACKET
+            &mo 2  &kp RIGHT_ALT      &kp LEFT_COMMAND  &kp LEFT              &kp RIGHT                              &kp SPACE  &kp DEL  &kp MINUS                     &kp RIGHT_COMMAND      &kp RIGHT_COMMAND              &kp ENTER               &kp DOWN_ARROW  &kp UP_ARROW              &mo 2  &kp LEFT_BRACKET  &kp RIGHT_BRACKET
             >;
         };
 
